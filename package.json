@@ -25,11 +25,11 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.0"
+    "react-router-dom": "^6.14.1"
   },
   "browserList": [
     "last 10  chrome versions"
   ],
-  "main": "App.js",
-  "description": ""
+  "entry-point": "App.js",
+  "description": "Reactjs webapp"
 }
